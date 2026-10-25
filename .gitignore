@@ -1,0 +1,15 @@
+# 실제 네트워크 정보 (자격증명 포함)
+NetworkInfo.ino
+
+# Arduino 빌드 산출물
+build/
+*.elf
+*.bin
+*.hex
+
+# OS
+Thumbs.db
+.DS_Store
+
+# 에디터
+.vscode/
