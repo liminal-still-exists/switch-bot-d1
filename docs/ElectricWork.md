@@ -2,13 +2,13 @@
 
 ### 기존 대기전력 스위치 회로도
 
-<img src="../images/WallLight-Circuit-Old.png" alt="대기전력 차단 스위치 회로도" width="400">
+<img src="../images/WallLight-Circuit-Old.png" alt="대기전력 차단 스위치 회로도" width="500">
 
 대기전력 스위치 제조사 웹사이트에서 결선도를 찾았는데 화질이 엄청나게 안 좋아서 한번 새로 그려봤다.
 
 ### 똑딱이 스위치 계획 회로도
 
-<img src="../images/WallLight-Circuit-NEW.png" alt="똑딱이 스위치 회로도" width="400">
+<img src="../images/WallLight-Circuit-NEW.png" alt="똑딱이 스위치 회로도" width="500">
 
 그걸 똑딱이 스위치로 바꾸면 이렇게 되어야 하겠으나... 아파트라는 것이 딱히 성의있게 짓는 게 아니다보니 실제 배선을 살펴보고 다시 파악하는 것이 중요하다.
 
